@@ -1,13 +1,29 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
     extend: {
       colors: {
-        primary: '#06b6d4',
-        secondary: '#1e3a8a',
+        primary: '#0b192c',
+        secondary: '#d97706',
+        navy: {
+          50: '#f0f4f9',
+          100: '#e1e9f2',
+          200: '#c2d2e5',
+          700: '#1b3b64',
+          800: '#10223b',
+          900: '#0b192c',
+          950: '#060e18',
+        },
+        gold: {
+          400: '#fbbf24',
+          500: '#f59e0b',
+          600: '#d97706',
+          700: '#b45309',
+        },
       },
       fontFamily: {
         logo: ['"Allura"', 'cursive'],
