@@ -1,0 +1,25 @@
+import { DONNIE_CASE_STUDY } from './donnie';
+import { ECOMMERCE_CASE_STUDY } from './ecommerce';
+import { FAMCON_CASE_STUDY } from './famcon';
+import {
+  MESOB_CASE_STUDY,
+  BLACK_EAGLE_CASE_STUDY,
+} from './mesob';
+import { OFFICELESS_CASE_STUDY } from './officeless';
+import { SEVEN_NET_CASE_STUDY } from './sevenNet';
+import {
+  ZETSEAT_COUNSELING_CASE_STUDY,
+  EMPATHIA_CASE_STUDY,
+} from './zetseatCounseling';
+
+export const CASE_STUDIES = {
+  [FAMCON_CASE_STUDY.slug]: FAMCON_CASE_STUDY,
+  [SEVEN_NET_CASE_STUDY.slug]: SEVEN_NET_CASE_STUDY,
+  [OFFICELESS_CASE_STUDY.slug]: OFFICELESS_CASE_STUDY,
+  [ZETSEAT_COUNSELING_CASE_STUDY.slug]: ZETSEAT_COUNSELING_CASE_STUDY,
+  empathia: EMPATHIA_CASE_STUDY,
+  [DONNIE_CASE_STUDY.slug]: DONNIE_CASE_STUDY,
+  [MESOB_CASE_STUDY.slug]: MESOB_CASE_STUDY,
+  'black-eagle': BLACK_EAGLE_CASE_STUDY,
+  [ECOMMERCE_CASE_STUDY.slug]: ECOMMERCE_CASE_STUDY,
+};
