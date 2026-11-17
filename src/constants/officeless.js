@@ -12,7 +12,7 @@ export const OFFICELESS_CASE_STUDY = {
   pitch:
     'Run teams, clients, files, scheduling, payments, leads, and support from one workspace — with plan-based entitlements and Stripe SaaS billing.',
   blurb:
-    'A multi-tenant virtual-office SaaS I work on with Next.js and NestJS at Be Light, as part of a team with work split by a project manager. My main contribution is frontend UI/UX, plus Postman and manual UI testing, with backend support when features need it. Live family: officelessportal.com.',
+    'A multi-tenant virtual-office SaaS I worked on with Next.js and NestJS at Be Light, as part of a team with work split by a project manager. My main contribution was frontend UI/UX, along with Postman and manual UI testing, with backend support when features needed it. Live family: officelessportal.com.',
   liveUrl: 'https://officelessportal.com',
   owner: 'Be Light',
   ownerUrl: 'https://belight-soft.com/',
@@ -22,7 +22,7 @@ export const OFFICELESS_CASE_STUDY = {
   shotFolder: 'src/assets/portfolio/officeless/',
   contribution: {
     title: 'My role',
-    lead: 'I work on Officeless as a freelancer at Be Light, on a team — a project manager assigns slices of the product, the same way we ship 7Net. Primary focus is frontend UI/UX, plus API testing (Postman) and manual / UI testing. Backend work as needed.',
+    lead: 'I worked on Officeless as a freelancer at Be Light, on a team where the project manager assigned slices of the product. Primary focus was frontend UI/UX, along with API testing (Postman) and manual / UI testing, with backend work as needed.',
     items: [
       {
         focus: 'Frontend',

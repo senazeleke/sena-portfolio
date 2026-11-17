@@ -14,7 +14,7 @@ export const SEVEN_NET_CASE_STUDY = {
   pitch:
     'Browse machinery and equipment, compare vendors, request quotes, chat with sellers, and manage orders across buyer, vendor, and admin roles — in English, Afaan Oromoo, and Amharic.',
   blurb:
-    'A B2B industrial marketplace I work on as a freelancer at Be Light, as part of a team with work split by a project manager. My main contribution is the frontend, plus Postman API testing and UI testing, with backend support when features need it. Live at 7netmarket.com.',
+    'A B2B industrial marketplace I worked on as a freelancer at Be Light, as part of a team with work split by a project manager. My main contribution was the frontend, along with Postman API testing and UI testing, with backend support when features needed it. Live at 7netmarket.com.',
   liveUrl: 'https://7netmarket.com',
   owner: 'Be Light',
   ownerUrl: 'https://belight-soft.com/',
@@ -24,7 +24,7 @@ export const SEVEN_NET_CASE_STUDY = {
   shotFolder: 'src/assets/portfolio/7net/',
   contribution: {
     title: 'My role',
-    lead: 'I currently work on 7Net as a freelancer at Be Light, on a team — a project manager assigns slices of the product. Primary focus is the frontend, plus API testing (Postman) and UI testing. Backend work as needed — API checks, DTO alignment, and bug fixes across NestJS modules.',
+    lead: 'I worked on 7Net as a freelancer at Be Light, on a team where the project manager assigned slices of the product. Primary focus was the frontend, along with API testing (Postman) and UI testing. Backend work was delivered as needed — API checks, DTO alignment, and bug fixes across NestJS modules.',
     items: [
       {
         focus: 'Frontend',

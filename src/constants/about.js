@@ -14,7 +14,7 @@ export const ABOUT = {
     title: 'Research',
     paragraphs: [
       "Alongside engineering, I work as an AI researcher at Haqila Lab. My interests are AI for health and AI for the environment: using machine learning to turn complex data into tools that support better decisions and early warning.",
-      "My current focus is landslide susceptibility modeling in Ethiopia. I use satellite data from Google Earth Engine and compare models such as Random Forest, XGBoost, CNN, and LSTM to map where landslides are most likely to happen. My research tools are Python, scikit-learn, TensorFlow/Keras, and Google Earth Engine.",
+      "My research focus is landslide susceptibility modeling in Ethiopia. I use satellite data from Google Earth Engine and compare models such as Random Forest, XGBoost, CNN, and LSTM to map where landslides are most likely to happen. My research tools are Python, scikit-learn, TensorFlow/Keras, and Google Earth Engine.",
     ],
   },
 };
