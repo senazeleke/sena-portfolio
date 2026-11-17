@@ -1,20 +1,19 @@
 export const ABOUT = {
   highlights: [
-    { label: 'Software Engineer', detail: 'Full-stack web and mobile products' },
-    // { label: 'Lecturer', detail: 'Software Engineering, Jimma University' }, // Temporarily commented out for applications
-    { label: 'Full-Stack Developer', detail: 'Modern web & mobile applications' },
-    { label: 'Researcher', detail: 'AI for health and the environment · Haqila Lab' },
+    { label: 'Full-Stack Engineering', detail: 'High-performance web platforms and distributed APIs' },
+    // { label: 'Lecturer', detail: 'Software Engineering, Jimma University' }, // Re-enable when ready
+    { label: 'Cross-Platform Mobile', detail: 'Production-ready mobile applications with clean architecture' },
+    { label: 'Applied AI & ML', detail: 'Predictive modeling, NLP pipelines, and geospatial analytics' },
   ],
   paragraphs: [
-    // "Hello, I’m Sena Zeleke, a software engineer and full-stack web and mobile developer. I lecture in the Software Engineering department at Jimma University. On the web I build responsive, dynamic applications with React, Node.js, Tailwind CSS, and GraphQL. For mobile I ship cross-platform apps with Flutter, Flask, and Python, and I am exploring AI integration for smarter products.",
-    "Hello, I’m Sena Zeleke, a software engineer and full-stack web and mobile developer. On the web I build responsive, dynamic applications with React, Node.js, Tailwind CSS, and GraphQL. For mobile I ship cross-platform apps with Flutter, Flask, and Python, and I am exploring AI integration for smarter products.",
-    "I am also skilled in data structures, writing efficient and scalable code, and I thrive on collaboration and clear communication.",
+    "Hello, I’m Sena Zeleke, a software engineer with a track record of architecting, building, and delivering full-stack web platforms and cross-platform mobile applications. I have focused on writing clean, scalable code, engineering resilient architectures, and building intuitive user experiences.",
+    "Alongside product engineering, I conducted applied AI research with Haqila Lab, developing machine learning and deep learning models for environmental risk assessment and early-warning systems.",
   ],
-  research: {
-    title: 'Research',
-    paragraphs: [
-      "Alongside engineering, I work as an AI researcher at Haqila Lab. My interests are AI for health and AI for the environment: using machine learning to turn complex data into tools that support better decisions and early warning.",
-      "My research focus is landslide susceptibility modeling in Ethiopia. I use satellite data from Google Earth Engine and compare models such as Random Forest, XGBoost, CNN, and LSTM to map where landslides are most likely to happen. My research tools are Python, scikit-learn, TensorFlow/Keras, and Google Earth Engine.",
-    ],
-  },
+  // research: {
+  //   title: 'Research',
+  //   paragraphs: [
+  //     "Alongside engineering, I worked as an AI researcher at Haqila Lab. My interests were AI for health and AI for the environment: using machine learning to turn complex data into tools that support better decisions and early warning.",
+  //     "My research focus was landslide susceptibility modeling in Ethiopia. I used satellite data from Google Earth Engine and compared models such as Random Forest, XGBoost, CNN, and LSTM to map where landslides are most likely to happen.",
+  //   ],
+  // },
 };
