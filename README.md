@@ -1,6 +1,7 @@
 # Sena's Portfolio
 
-Personal portfolio website for **Sena Zeleke** — Software Engineer, Lecturer in Software Engineering at Jimma University, and MSc Data Science student.
+<!-- Personal portfolio website for **Sena Zeleke** — Software Engineer, Lecturer in Software Engineering at Jimma University, and MSc Data Science student. -->
+Personal portfolio website for **Sena Zeleke** — Software Engineer, Full-Stack Web & Mobile Developer, and MSc Data Science student.
 
 Built with React and Tailwind CSS, featuring full-stack and mobile applications, detailed project case studies, an interactive skills showcase, and responsive dark/light mode support.
 

@@ -40,12 +40,14 @@ const Hero = () => {
           >
             {SITE.role}
           </h3>
-          <p
-            className="hero-rise text-navy-800 dark:text-cyan-200/90 text-sm sm:text-base mt-3 tracking-wide font-medium"
-            style={{ animationDelay: '160ms' }}
-          >
-            {SITE.affiliation}
-          </p>
+          {SITE.affiliation ? (
+            <p
+              className="hero-rise text-navy-800 dark:text-cyan-200/90 text-sm sm:text-base mt-3 tracking-wide font-medium"
+              style={{ animationDelay: '160ms' }}
+            >
+              {SITE.affiliation}
+            </p>
+          ) : null}
           <div
             className="hero-rise text-slate-600 dark:text-gray-300 py-3 text-base sm:text-lg max-w-lg mx-auto md:mx-0 space-y-1"
             style={{ animationDelay: '220ms' }}

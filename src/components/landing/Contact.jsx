@@ -7,6 +7,7 @@ import Reveal from '../ui/Reveal';
 
 const Contact = () => {
   const contactMethods = [
+    /*
     {
       id: 'academic-email',
       icon: HiOutlineMail,
@@ -16,6 +17,7 @@ const Contact = () => {
       subtitle: 'Lecturing & Research',
       href: CONTACT.academicEmailHref,
     },
+    */
     {
       id: 'whatsapp',
       icon: FaWhatsapp,

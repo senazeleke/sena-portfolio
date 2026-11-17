@@ -1,11 +1,13 @@
 export const ABOUT = {
   highlights: [
     { label: 'Software Engineer', detail: 'Full-stack web and mobile products' },
-    { label: 'Lecturer', detail: 'Software Engineering, Jimma University' },
+    // { label: 'Lecturer', detail: 'Software Engineering, Jimma University' }, // Temporarily commented out for applications
+    { label: 'Full-Stack Developer', detail: 'Modern web & mobile applications' },
     { label: 'Researcher', detail: 'AI for health and the environment · Haqila Lab' },
   ],
   paragraphs: [
-    "Hello, I’m Sena Zeleke, a software engineer and full-stack web and mobile developer. I lecture in the Software Engineering department at Jimma University. On the web I build responsive, dynamic applications with React, Node.js, Tailwind CSS, and GraphQL. For mobile I ship cross-platform apps with Flutter, Flask, and Python, and I am exploring AI integration for smarter products.",
+    // "Hello, I’m Sena Zeleke, a software engineer and full-stack web and mobile developer. I lecture in the Software Engineering department at Jimma University. On the web I build responsive, dynamic applications with React, Node.js, Tailwind CSS, and GraphQL. For mobile I ship cross-platform apps with Flutter, Flask, and Python, and I am exploring AI integration for smarter products.",
+    "Hello, I’m Sena Zeleke, a software engineer and full-stack web and mobile developer. On the web I build responsive, dynamic applications with React, Node.js, Tailwind CSS, and GraphQL. For mobile I ship cross-platform apps with Flutter, Flask, and Python, and I am exploring AI integration for smarter products.",
     "I am also skilled in data structures, writing efficient and scalable code, and I thrive on collaboration and clear communication.",
   ],
   research: {

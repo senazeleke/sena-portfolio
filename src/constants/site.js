@@ -6,7 +6,8 @@ export const SITE = {
   fullName: 'Sena Zeleke',
   documentTitle: "Sena's Portfolio",
   role: 'Software Engineer',
-  affiliation: 'Lecturer, Software Engineering · Jimma University',
+  // affiliation: 'Lecturer, Software Engineering · Jimma University', // Temporarily commented out for job applications; re-enable when ready
+  affiliation: '',
   researchAffiliation: 'AI Researcher · Haqila Lab',
   tagline: 'I build software and develop full-stack web and mobile applications.',
   subtagline: 'Researching AI for health and the environment.',
